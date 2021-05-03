@@ -20,8 +20,9 @@ Cool then grab a coffee :coffee: and...
 ## Contributing
 
 - Please follow the Nim Style Guide: https://nim-lang.org/docs/nep1.html
-- All folder names in `snake_case`
-- All file names in `camelCase`
+- Fork this repository and create a suitable branch
+- If you're creating a folder name it in `snake_case`
+- All file names are in `camelCase`
   - Algorithms with multiple implementation techniques goes as `algorithmName_method`
     ```bash
     # example
@@ -42,14 +43,18 @@ Cool then grab a coffee :coffee: and...
     Input
 
     Output
+
+    Explanation/Why
   ...
   Example N
     Input
 
     Output
+
+    Explanation/Why
 ]#
 ``` 
-- Finally make apt changes to [index](/index.md) files
+- Finally make apt changes to [index](/index.md) & [.gitignore](/.gitignore) files
 
 ## [License](/LICENSE)
 
