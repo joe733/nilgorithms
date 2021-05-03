@@ -1,12 +1,12 @@
-# Nilgorithms
+# 👑 Nilgorithms
 
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😎-FFDD67.svg" alt="Gitmoji">
 </a>
 
-Algorithms implemented in [Nim](https://nim-lang.org/) :crown:
+Algorithms implemented in [Nim](https://nim-lang.org/).
 
-## Prologue
+## 🏁 Prologue
 
 Hey there if you've stumbled on this file blame your inquisitiveness. Just kidding :joy: !
 
@@ -17,7 +17,7 @@ Cool then grab a coffee :coffee: and...
 - If you've very little programming experience go to: https://narimiran.github.io/nim-basics/
 - If you know other programming languages hop on to: https://github.com/nim-lang/Nim/wiki#nim-for-x-programmers
 
-## Contributing
+## 🛠 Contributing
 
 - Please follow the Nim Style Guide: https://nim-lang.org/docs/nep1.html
 - Fork this repository and create a suitable branch
@@ -56,7 +56,7 @@ Cool then grab a coffee :coffee: and...
 ``` 
 - Finally make apt changes to [index](/index.md) & [.gitignore](/.gitignore) files
 
-## [License](/LICENSE)
+## ⚖️ [License](/LICENSE)
 
 ```
 MIT License
@@ -82,6 +82,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## Epilogue
+## 🏁 Epilogue
 
 Thanks :heart: for contributing!
