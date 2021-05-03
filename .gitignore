@@ -1,3 +1,9 @@
+# Ignore compiled ouputs in the following directories
+math/*
+
+# Do not ignore files with nim as extentions
+!**/*.nim
+
 nimcache/
 nimblecache/
 htmldocs/
