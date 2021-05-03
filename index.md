@@ -45,7 +45,7 @@
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [gcd_euclidean](/math/gcd_euclidean.nim) | [math](/math) |  [@joe733](https://github.com/joe733) |
 
 ### **H**
 
