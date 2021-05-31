@@ -119,7 +119,8 @@
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
 | [sumOfDigits](/math/sumOfDigits.nim) | [math](/math) |  [@joe733](https://github.com/joe733)
-)### **T**
+
+### **T**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
