@@ -100,7 +100,7 @@
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [pascalTriangle](/math/pascalTriangle.nim) | [math](/math) |  [@joe733](https://github.com/joe733) |
 
 ### **Q**
 
