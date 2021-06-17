@@ -100,7 +100,7 @@
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#!) | [Category](#!) |  [Contributor](#!) |
+| [pascalTriangle](/math/pascalTriangle.nim) | [math](/math) |  [@joe733](https://github.com/joe733) |
 
 ## **Q**
 
@@ -118,9 +118,9 @@
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [sumOfDigits](/math/sumOfDigits.nim) | [math](/math) |  [@joe733](https://github.com/joe733) |
+| [sumOfDigits](/math/sumOfDigits.nim) | [math](/math) |  [@joe733](https://github.com/joe733)
 
-## **T**
+### **T**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |

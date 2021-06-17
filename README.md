@@ -1,29 +1,26 @@
 # 👑 Nilgorithms
 
-<a href="https://gitmoji.dev">
-  <img src="https://img.shields.io/badge/gitmoji-%20😎-FFDD67.svg" alt="Gitmoji">
-</a>
+![Gitmoji](https://img.shields.io/badge/gitmoji-%20😎-FFDD67.svg)
 
 Algorithms implemented in [Nim](https://nim-lang.org/).
 
-## 🏁 Prologue
+## 🏁 What's This?
 
-Hey there if you've stumbled on this file blame your inquisitiveness. Just kidding :joy: !
-
-Welcome to `~/nilgorithms`. It's most likely that you've not heard of Nim (if you have, please [jump in](#contributing)) and that you're interested to learn about this language.
+Welcome to `~/nilgorithms`. It's most likely that you've not heard of Nim-lang (if you have, please [jump in](#contributing)) and that you're interested to learn about this language.
 
 Cool then grab a coffee :coffee: and...
 
-- If you've very little programming experience go to: https://narimiran.github.io/nim-basics/
-- If you know other programming languages hop on to: https://github.com/nim-lang/Nim/wiki#nim-for-x-programmers
+- If you've very little programming experience go to: [Nim Basic](https://narimiran.github.io/nim-basics/)
+- If you know other programming languages hop on to: [Nim for X programmers](https://github.com/nim-lang/Nim/wiki#nim-for-x-programmers)
 
 ## 🛠 Contributing
 
-- Please follow the Nim Style Guide: https://nim-lang.org/docs/nep1.html
+- Please follow the [Nim Style Guide](https://nim-lang.org/docs/nep1.html/)
 - Fork this repository and create a suitable branch
 - If you're creating a folder name it in `snake_case`
 - All file names are in `camelCase`
   - Algorithms with multiple implementation techniques goes as `algorithmName_method`
+  
     ```bash
     # example
     nilgorithms
@@ -31,8 +28,10 @@ Cool then grab a coffee :coffee: and...
         |-- checkPrime_iterative
         |-- checkPrime_recursive
     ```
+
 - Preferred intend size is 2 spaces (not 4 :wink:)
 - File docstring
+
 ```nim
 #[
   Problem: Describe your problem
@@ -53,12 +52,13 @@ Cool then grab a coffee :coffee: and...
 
     Explanation/Why
 ]#
-``` 
+```
+
 - Finally make apt changes to [index](/index.md) & [.gitignore](/.gitignore) files
 
 ## ⚖️ [License](/LICENSE)
 
-```
+```text
 MIT License
 
 Copyright (c) 2021 Jovial Joe Jayarson
@@ -82,6 +82,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 🏁 Epilogue
+## 🏁 Bye
 
-Thanks :heart: for contributing!
+Thanks :heart: for the visit!
