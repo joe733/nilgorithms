@@ -1,18 +1,18 @@
 # Nindex
 
-### **A**
+## **A**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
 
-### **B**
+## **B**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
 
-### **C**
+## **C**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
@@ -20,19 +20,19 @@
 | [checkPrime_recursive](/math/checkPrime_recursive.nim) | [math](/math) |  [@joe733](https://github.com/joe733) |
 | [checkPalindrome](/math/checkPalindrome.nim) | [math](/math) |  [@joe733](https://github.com/joe733) |
 
-### **D**
+## **D**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
 
-### **E**
+## **E**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
 
-### **F**
+## **F**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
@@ -41,122 +41,123 @@
 | [factorial_iterative](/math/factorial_iterative.nim) | [math](/math) |  [@joe733](https://github.com/joe733) |
 | [factorial_recursive](/math/factorial_recursive.nim) | [math](/math) |  [@joe733](https://github.com/joe733) |
 
-### **G**
+## **G**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
 | [gcd_euclidean](/math/gcd_euclidean.nim) | [math](/math) |  [@joe733](https://github.com/joe733) |
 
-### **H**
+## **H**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
 
-### **I**
-
-| Algorithm Name | Category | Contributor Name |
-| --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
-
-### **J**
+## **I**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
 
-### **K**
-
-| Algorithm Name | Category | Contributor Name |
-| --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
-
-### **L**
+## **J**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
 
-### **M**
+## **K**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
 
-### **N**
+## **L**
+
+| Algorithm Name | Category | Contributor Name |
+| --- | --- | --- |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
+
+## **M**
+
+| Algorithm Name | Category | Contributor Name |
+| --- | --- | --- |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
+
+## **N**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
 | [narcissisticNumber_iterative](/math/narcissisticNumber_iterative.nim) | [math](/math) |  [@joe733](https://github.com/joe733) |
 | [narcissisticNumber_recursive](/math/narcissisticNumber_recursive.nim) | [math](/math) |  [@joe733](https://github.com/joe733) |
 
-### **O**
+## **O**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
 
-### **P**
-
-| Algorithm Name | Category | Contributor Name |
-| --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
-
-### **Q**
+## **P**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
 
-### **R**
-
-| Algorithm Name | Category | Contributor Name |
-| --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
-
-### **S**
+## **Q**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [sumOfDigits](/math/sumOfDigits.nim) | [math](/math) |  [@joe733](https://github.com/joe733)
-)### **T**
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
+
+## **R**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
 
-### **U**
-
-| Algorithm Name | Category | Contributor Name |
-| --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
-
-### **V**
+## **S**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [sumOfDigits](/math/sumOfDigits.nim) | [math](/math) |  [@joe733](https://github.com/joe733) |
 
-### **W**
-
-| Algorithm Name | Category | Contributor Name |
-| --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
-
-### **X**
+## **T**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
 
-### **Y**
-
-| Algorithm Name | Category | Contributor Name |
-| --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
-
-### **Z**
+## **U**
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#) | [Category](#) |  [Contributor](#) |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
+
+## **V**
+
+| Algorithm Name | Category | Contributor Name |
+| --- | --- | --- |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
+
+## **W**
+
+| Algorithm Name | Category | Contributor Name |
+| --- | --- | --- |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
+
+## **X**
+
+| Algorithm Name | Category | Contributor Name |
+| --- | --- | --- |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
+
+## **Y**
+
+| Algorithm Name | Category | Contributor Name |
+| --- | --- | --- |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
+
+## **Z**
+
+| Algorithm Name | Category | Contributor Name |
+| --- | --- | --- |
+| [Name](#!) | [Category](#!) |  [Contributor](#!) |
