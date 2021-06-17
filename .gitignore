@@ -1,5 +1,6 @@
 # Ignore compiled ouputs in the following directories
 math/*
+sorting/*
 
 # Do not ignore files with nim as extentions
 !**/*.nim

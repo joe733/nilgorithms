@@ -10,7 +10,7 @@
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#!) | [Category](#!) |  [Contributor](#!) |
+| [bubbleSort](/sorting/bubbleSort.nim) | [sorting](/sorting) |  [@joe733](https://github.com/joe733) |
 
 ## **C**
 
