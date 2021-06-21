@@ -19,7 +19,25 @@
 
 import std/[strutils, sequtils]
 
-var mylist: seq[int] = map(stdin.readLine().split(' '), proc(x: string): int = x.parseInt())
+var mylist: seq[int] = map(stdin.readLine().split(' '), proc(
+    x: string): int = x.parseInt())
+var swapped: bool = true
+
+while swapped:
+  swapped = false
+  for idx in 0 ..< mylist.len-1:
+    if mylist[idx] > mylist[idx+1]:
+      swap(mylist[idx], mylist[idx+1])
+      swapped = true
+
+for item in mylist:
+  stdout.write($item & " ") # $x convertes x to string
+
+echo()
+
+#[
+Less efficient method
+
 var temp: int
 
 for idx in 0 ..< mylist.len:
@@ -28,5 +46,4 @@ for idx in 0 ..< mylist.len:
             temp = mylist[idx]
             mylist[idx] = mylist[jdx]
             mylist[jdx] = temp
-
-echo mylist
+]#
