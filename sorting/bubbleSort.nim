@@ -15,6 +15,11 @@
       3 7 5 4
     Output:
       3 4 5 7
+  
+  Explanation:
+    - while swap operation is being performed
+      - loop through the list see if ascending / descending conditions are met.
+      - for example see if the current value is greater than the next value, if so perform swap
 ]#
 
 import std/[strutils, sequtils]
