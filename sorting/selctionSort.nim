@@ -17,28 +17,29 @@
       3 4 5 7
     
   Explanation:
-
+    - Loop through the list and find the minimum value
+    - Swap it with the first valuse
+    - Repeat the above steps from the most recently inserted position
 ]#
 
 import std/[strutils, sequtils]
 
-var ipList: seq[int] = map(stdin.readLine().split(' '), proc(
+var ip_list: seq[int] = map(stdin.readLine().split(' '), proc(
     x: string): int = x.parseInt())
 
 var
   insert_pos: int = 0
   min_pos: int = 0
 
-while insert_pos < ipList.len:
-  for idx in insert_pos+1 ..< ipList.len:
-    if ipList[idx] < ipList[min_pos]:
-      min_pos = idx
+while insert_pos < ip_list.len:
+  min_pos = minIndex(ip_list[insert_pos+1 ..< ip_list.len]) + insert_pos + 1 # index offset in the slice
 
-  swap(ipList[insert_pos], ipList[min_pos])
+  if (min_pos < ip_list.len) and (ip_list[min_pos] < ip_list[insert_pos]):
+    swap(ip_list[insert_pos], ip_list[min_pos])
+  
   insert_pos += 1
-  min_pos = insert_pos
 
-for item in ipList:
+for item in ip_list:
   stdout.write($item & " ") # $x convertes x to string
 
 echo()
