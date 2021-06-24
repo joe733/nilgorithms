@@ -24,22 +24,22 @@
 
 import std/[strutils, sequtils]
 
-var ip_list: seq[int] = map(stdin.readLine().split(' '), proc(
+var ipList: seq[int] = map(stdin.readLine().split(' '), proc(
     x: string): int = x.parseInt())
 
 var
   insert_pos: int = 0
   min_pos: int = 0
 
-while insert_pos < ip_list.len:
-  min_pos = minIndex(ip_list[insert_pos+1 ..< ip_list.len]) + insert_pos + 1 # index offset in the slice
+while insert_pos < ipList.len:
+  min_pos = minIndex(ipList[insert_pos+1 ..< ipList.len]) + insert_pos + 1 # index offset in the slice
 
-  if (min_pos < ip_list.len) and (ip_list[min_pos] < ip_list[insert_pos]):
-    swap(ip_list[insert_pos], ip_list[min_pos])
+  if (min_pos < ipList.len) and (ipList[min_pos] < ipList[insert_pos]):
+    swap(ipList[insert_pos], ipList[min_pos])
   
   insert_pos += 1
 
-for item in ip_list:
+for item in ipList:
   stdout.write($item & " ") # $x convertes x to string
 
 echo()

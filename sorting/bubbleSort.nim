@@ -24,18 +24,18 @@
 
 import std/[strutils, sequtils]
 
-var ip_list: seq[int] = map(stdin.readLine().split(' '), proc(
+var ipList: seq[int] = map(stdin.readLine().split(' '), proc(
     x: string): int = x.parseInt())
 var swapped: bool = true
 
 while swapped:
   swapped = false
-  for idx in 0 ..< ip_list.len-1:
-    if ip_list[idx] > ip_list[idx+1]:
-      swap(ip_list[idx], ip_list[idx+1])
+  for idx in 0 ..< ipList.len-1:
+    if ipList[idx] > ipList[idx+1]:
+      swap(ipList[idx], ipList[idx+1])
       swapped = true
 
-for item in ip_list:
+for item in ipList:
   stdout.write($item & " ") # $x convertes x to string
 
 echo()
@@ -45,10 +45,10 @@ Less efficient method
 
 var temp: int
 
-for idx in 0 ..< ip_list.len:
-    for jdx in idx+1 ..< ip_list.len:
-        if ip_list[idx] > ip_list[jdx]:
-            temp = ip_list[idx]
-            ip_list[idx] = ip_list[jdx]
-            ip_list[jdx] = temp
+for idx in 0 ..< ipList.len:
+    for jdx in idx+1 ..< ipList.len:
+        if ipList[idx] > ipList[jdx]:
+            temp = ipList[idx]
+            ipList[idx] = ipList[jdx]
+            ipList[jdx] = temp
 ]#

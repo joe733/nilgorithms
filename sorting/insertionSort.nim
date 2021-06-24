@@ -25,19 +25,19 @@
 
 import std/[strutils, sequtils]
 
-var ip_list = map(stdin.readLine().split(' '), proc(x: string): int = parseInt(x))
+var ipList = map(stdin.readLine().split(' '), proc(x: string): int = parseInt(x))
 
 var
   lhp: int
 
-for idx in 0 ..< ip_list.len:
+for idx in 0 ..< ipList.len:
   lhp = idx
-  while ip_list.len - 1 > lhp and lhp >= 0 and ip_list[lhp] > ip_list[lhp + 1]:
-    swap(ip_list[lhp], ip_list[lhp + 1])
+  while ipList.len - 1 > lhp and lhp >= 0 and ipList[lhp] > ipList[lhp + 1]:
+    swap(ipList[lhp], ipList[lhp + 1])
     lhp -= 1
 
 
-for item in ip_list:
+for item in ipList:
   stdout.write($item & " ") # $x convertes x to string
 
 echo()
