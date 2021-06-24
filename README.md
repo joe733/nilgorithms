@@ -10,12 +10,12 @@ Welcome to `~/nilgorithms`. It's most likely that you've not heard of Nim-lang (
 
 Cool then grab a coffee :coffee: and...
 
-- If you've very little programming experience go to: [Nim Basic](https://narimiran.github.io/nim-basics/)
+- If you've very little programming experience go to: [Nim Basic](https://narimiran.github.io/nim-basics)
 - If you know other programming languages hop on to: [Nim for X programmers](https://github.com/nim-lang/Nim/wiki#nim-for-x-programmers)
 
 ## 🛠 Contributing
 
-- Please follow the [Nim Style Guide](https://nim-lang.org/docs/nep1.html/)
+- Please follow the [Nim Style Guide](https://nim-lang.org/docs/nep1.html)
 - Fork this repository and create a suitable branch
 - If you're creating a folder name it in `snake_case`
 - All file names are in `camelCase`
