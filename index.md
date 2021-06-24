@@ -57,7 +57,7 @@
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#!) | [Category](#!) |  [Contributor](#!) |
+| [insertionSort](/sorting/insertionSort.nim) | [sorting](/sorting) |  [@joe733](https://github.com/joe733) |
 
 ## **J**
 
