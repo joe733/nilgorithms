@@ -5,6 +5,11 @@ sorting/*
 # Do not ignore files with nim as extentions
 !**/*.nim
 
+# Ignore VSCode Config
+.vscode/
+
+# Nim Memory
 nimcache/
 nimblecache/
+
 htmldocs/
