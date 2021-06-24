@@ -18,24 +18,24 @@
   
   Explanation:
     - while swap operation is being performed
-      - loop through the list see if ascending / descending conditions are met.
-      - for example see if the current value is greater than the next value, if so perform swap
+    - loop through the list see if ascending / descending conditions are met.
+    - for example see if the current value is greater than the next value, if so perform swap
 ]#
 
 import std/[strutils, sequtils]
 
-var mylist: seq[int] = map(stdin.readLine().split(' '), proc(
+var ip_list: seq[int] = map(stdin.readLine().split(' '), proc(
     x: string): int = x.parseInt())
 var swapped: bool = true
 
 while swapped:
   swapped = false
-  for idx in 0 ..< mylist.len-1:
-    if mylist[idx] > mylist[idx+1]:
-      swap(mylist[idx], mylist[idx+1])
+  for idx in 0 ..< ip_list.len-1:
+    if ip_list[idx] > ip_list[idx+1]:
+      swap(ip_list[idx], ip_list[idx+1])
       swapped = true
 
-for item in mylist:
+for item in ip_list:
   stdout.write($item & " ") # $x convertes x to string
 
 echo()
@@ -45,10 +45,10 @@ Less efficient method
 
 var temp: int
 
-for idx in 0 ..< mylist.len:
-    for jdx in idx+1 ..< mylist.len:
-        if mylist[idx] > mylist[jdx]:
-            temp = mylist[idx]
-            mylist[idx] = mylist[jdx]
-            mylist[jdx] = temp
+for idx in 0 ..< ip_list.len:
+    for jdx in idx+1 ..< ip_list.len:
+        if ip_list[idx] > ip_list[jdx]:
+            temp = ip_list[idx]
+            ip_list[idx] = ip_list[jdx]
+            ip_list[jdx] = temp
 ]#
