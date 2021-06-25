@@ -75,7 +75,7 @@
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#!) | [Category](#!) |  [Contributor](#!) |
+| [linearSearch](/searching/linearSearch.nim) | [searching](/searching) |  [@joe733](https://github.com/joe733) |
 
 ## **M**
 
