@@ -11,6 +11,7 @@
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
 | [bubbleSort](/sorting/bubbleSort.nim) | [sorting](/sorting) |  [@joe733](https://github.com/joe733) |
+| [binarySearch](/searching/binarySearch.nim) | [searching](/searching/) |  [@joe733](https://github.com/joe733) |
 
 ## **C**
 
