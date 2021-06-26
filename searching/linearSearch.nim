@@ -9,14 +9,14 @@
       1 2 3
       5
     Output:
-      Nope
+      Nope!
   
   Example 2:
     Input:
       2 5 6
       6
     Output:
-      Yup
+      Yup!
 ]#
 
 import std/[strutils, sequtils]
