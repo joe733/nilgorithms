@@ -82,7 +82,7 @@
 
 | Algorithm Name | Category | Contributor Name |
 | --- | --- | --- |
-| [Name](#!) | [Category](#!) |  [Contributor](#!) |
+| [matrixMultiplication](/math/matrixMultiplication.nim | [math](/math) |  [@joe733](https://github.com/joe733) |
 
 ## **N**
 
