@@ -1,5 +1,6 @@
 #[
 001 Colored Socks
+  Source: https://www.linkedin.com/posts/sommukhopadhyay_count-pair-of-socks-activity-6846786328722468864-BHb-
   Statement:
     There is a large pile of socks that must be paired by color. Given an array of integers representing the color of each sock, determine how many pairs of socks with matching colors there are.
   Example:
