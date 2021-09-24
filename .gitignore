@@ -2,6 +2,7 @@
 math/*
 sorting/*
 searching/*
+problems/*
 
 # Do not ignore files with nim as extentions
 !**/*.nim
